@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sandhya-Portfolio</title>
+  </head>
+  <body>
+    <h1>Sandhya</h1>
+    <section>
+      <h2>About Me</h2>
+      <p>I am Sandhya, a passionate and creative student with a background in computer science.i am a firm believer in continuous learning.I enjoy creating user friendly websites.In addition to coding,I have a strong interest in design and always strive to blend creativity with technical expertise in my projects.When am not coding, you can find me exploring nature and immersing myself in music.Am a fast learner,I always tend to learn new things,expand my knowledge. </p>
+        </section>
+    <section>
+      <h2>Skills and Interests</h2>
+      <ul>
+        <li>HTML,CSS,JavaScript</li>
+        <li>C,C++,JAVA</li>
+        <li>MS Excel</li>
+        <li>Comminication</li>
+        <li>Time management</li>
+        <li>Teamwork </li>
+        
+      </ul>
+      <p>I have a wide range of interests that keep me curious and motivated.I enjoy exploring places.i like Outdoor activities where i feel deeply connected to nature.I am also passionate about contributing to my local community.My love for technology extends beyond work,and I like to stay updated on the latest tech trends and gadgets.These diverse interests help me to maintain a balanced and fulfilling life,both inside and outside the digital world.</p>
+       </section>
+    <section>
+      <h2>Projects</h1>
+      <div>
+        <h3>Project-1:Personal Website</h3>
+        <p>For this project,I designed and developed a personal website from scratch.I used HTML,CSS,JavaScript to create a responsive and user-friendly platform where I share my thoughts,insights,and experiences.The website features a clean and modern design,allowing visitors to navigate seamlessly and engage with my content.This website not only showcases my skills but also reflects my passion for creating meaningful online content. </p>
+      </div>
+    </section>
+    <section>
+      <h2>Contact Information</h2>
+      <p>Email:dadivenkatreddy8@gmail.com</p>
+      <p>Linkedin:<a href="https://www.linkedin.com/in/sandhya-reddy-2711b6296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"</p>
+    </section>
+  </body>
+</html>
