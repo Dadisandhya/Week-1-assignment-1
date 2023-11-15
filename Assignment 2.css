@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-container {
+    background-image: url("https://images.wallpapersden.com/image/download/colorful-gradient-new-shapes_bGVpbWuUmZqaraWkpJRpZW5rrWdma2U.jpg");
+    background-size: cover;
+    padding: 20px;
+    color: black;
+}
+
+.heading {
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+.container {
+    display: flex;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.inner-container {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 10px;
+    text-align: left;
+    background-color: transparent;
+}
+
+.para {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.button {
+    background-color: #0066ff;
+    border: none;
+    font-family: roboto;
+    color: white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 50px;
+}
